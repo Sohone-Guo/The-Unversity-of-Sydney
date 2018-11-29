@@ -1,0 +1,11 @@
+---Environment
+   Ubuntu 16
+   Anaconda3.6
+
+--- File address
+    Dataset: 'conll03/'
+    Evaluation: conlleval
+
+--- Description
+    running the code: python Featue 3 eng.py
+

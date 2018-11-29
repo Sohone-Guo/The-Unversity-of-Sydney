@@ -1,0 +1,26 @@
+This code is for University of Sydney - SIT - Machine Learning assgnment 1, 
+made by Xuhong GUO, Huixin CHEN.
+
+
+? Environment: Anaconda 4.3.1 (Python 3.6.0 version)
+
+? code (a folder):
+1. algorithm (a folder): Step 1 Generate New data.py,
+Step 2 Training Model.py, Step 3 Prediction.py.
+2. input (a folder): empty.
+3. output (a folder): predicted labels.csv
+
+? Step 1: running the Step 1 Generate New data.py,
+the program will generate a new data.csv file in input
+fold.
+
+? Step 2: running the Step 2 Training Model.py, the
+program will output a model with two CSV files in
+algorithm folder. One stores the unique labels in
+training data. The other is the value of W, which is
+corresponding to label file.
+
+? Step 3: running the Step 3 Prediction.py, the program
+will use the labels and value of W, generated in step
+2, to predict the predicting file and give the predicting
+label in output folder.

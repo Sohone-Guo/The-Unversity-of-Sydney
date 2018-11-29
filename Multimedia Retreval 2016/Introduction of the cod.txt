@@ -1,0 +1,3 @@
+
+"retrieva_code.py" is the core code in our case. To run the program, copy the whole folder in the desktop. We use Python 2.7, Opencv 3.0 and then import the library of opencv3.0, sklean, urllib. Open the project "retrieval_assignment", then run the "retrieva_code.py"
+ 

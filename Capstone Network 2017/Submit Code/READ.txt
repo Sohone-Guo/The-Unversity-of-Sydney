@@ -1,0 +1,7 @@
+Configuration Environment:
+		- Anconda3.6(python 3.6)
+		- Addition Library: aiohttp; psutil; boto3;
+
+
+Run the index.py with the order "Balanced -> Server -> Balanced Control -> Client"
+

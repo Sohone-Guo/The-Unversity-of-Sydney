@@ -1,0 +1,903 @@
+﻿No.	User	Edit count
+1	Cydebot	4,534,846
+2	WP 1.0 bot	4,264,761
+3	SmackBot	3,734,324
+4	Yobot	3,591,345
+5	ClueBot NG	2,898,217
+6	Addbot	2,839,543
+7	SineBot	1,784,318
+8	EmausBot	1,682,136
+9	ClueBot	1,596,818
+10	RjwilmsiBot	1,535,001
+11	AnomieBOT	1,500,891
+12	Xqbot	1,127,778
+13	RussBot	1,092,170
+14	Fbot	962,940
+15	Luckas-bot	954,164
+16	BetacommandBot	931,490
+17	The Anomebot2	844,989
+18	COIBot	809,930
+19	Lightbot	791,863
+20	AlexNewArtBot	778,467
+21	ZéroBot	727,242
+22	Helpful Pixie Bot	708,181
+23	OrphanBot	654,820
+24	BattyBot	625,106
+25	FrescoBot	605,306
+26	MiszaBot III	601,878
+27	Legobot	594,039
+28	SporkBot	572,123
+29	TXiKiBoT	567,806
+30	XLinkBot	518,886
+31	VeblenBot	517,707
+32	AvicBot	510,282
+33	AAlertBot	510,145
+34	ListasBot	482,720
+35	Thijs!bot	474,046
+36	VolkovBot	450,148
+37	Kingbotk	447,274
+38	Erik9bot	439,480
+39	Alaibot	434,501
+40	SieBot	421,891
+41	TedderBot	408,011
+42	CommonsDelinker	401,295
+43	BOTijo	398,365
+44	Xenobot Mk V	393,887
+45	D6	393,081
+46	ClueBot III	389,104
+47	BG19bot	377,749
+48	EdwardsBot	360,723
+49	Bluebot	349,597
+50	Mathbot	341,393
+51	CmdrObot	337,914
+52	DASHBot	329,822
+53	Full-date unlinking bot	324,022
+54	BotMultichill	296,310
+55	Citation bot	279,182
+56	YurikBot	278,165
+57	VoABot II	274,019
+58	ImageRemovalBot	272,966
+59	BJBot	271,036
+60	MiszaBot II	261,898
+61	Eubot	259,670
+62	ArthurBot	259,346
+63	AntiVandalBot	258,750
+64	HasteurBot	257,635
+65	HBC AIV helperbot7	255,963
+66	VIAFbot	254,678
+67	MiszaBot I	236,198
+68	Escarbot	236,152
+69	SoxBot	235,195
+70	Cyberbot I	233,067
+71	MetsBot	230,558
+72	DeltaQuadBot	225,976
+73	DPL bot	224,715
+74	FlaBot	222,981
+75	RFC bot	219,171
+76	DumZiBoT	212,289
+77	Polbot	208,184
+78	STBotI	199,275
+79	Xenobot	197,501
+80	Alexbot	196,238
+81	KrimpBot	194,116
+82	MartinBot	190,136
+83	Kbdankbot	184,258
+84	ImageTaggingBot	180,385
+85	Femto Bot	179,804
+86	MGA73bot	179,070
+87	MystBot	177,678
+88	YFdyh-bot	170,978
+89	CorenSearchBot	167,992
+90	Chobot	166,315
+91	HBC Archive Indexerbot	165,418
+92	ProteinBoxBot	159,824
+93	Kumi-Taskbot	158,176
+94	Kotbot	157,583
+95	JAnDbot	156,672
+96	Monkbot	152,850
+97	DrilBot	152,046
+98	GrouchoBot	147,818
+99	DumbBOT	144,834
+100	Zorrobot	144,725
+101	WikitanvirBot	144,519
+102	FairuseBot	143,798
+103	WildBot	142,891
+104	HBC AIV helperbot3	140,330
+105	Rambot	139,851
+106	RedBot	137,831
+107	タチコマ robot	137,789
+108	NoomBot	137,210
+109	MartinBotIII	136,346
+110	DodoBot	136,137
+111	TinucherianBot	134,614
+112	H3llBot	134,512
+113	CheMoBot	132,978
+114	Tawkerbot2	131,306
+115	Citation bot 1	129,612
+116	ShepBot	128,863
+117	Reedy Bot	128,309
+118	GA bot	127,721
+119	InceptionBot	126,542
+120	Detroiterbot	126,164
+121	LaaknorBot	125,054
+122	SkiersBot	124,334
+123	Chris G Bot 3	123,892
+124	LaraBot	123,283
+125	Lowercase sigmabot III	121,853
+126	SatyrBot	121,099
+127	Ganeshbot	119,400
+128	HBC AIV helperbot5	115,809
+129	DYKUpdateBot	115,684
+130	Svenbot	114,365
+131	BryanBot	113,819
+132	BracketBot	112,462
+133	Tawkerbot	110,234
+134	Pearle	109,696
+135	Hmainsbot1	107,092
+136	PseudoBot	106,520
+137	JL-Bot	106,316
+138	DarknessBot	106,029
+139	ChuispastonBot	104,541
+140	OKBot	103,883
+141	Makecat-bot	103,747
+142	LucienBOT	103,060
+143	Alphachimpbot	100,435
+144	718 Bot	99,574
+145	Snotbot	99,092
+146	Scsbot	97,222
+147	KLBot2	96,688
+148	HagermanBot	95,722
+149	Numbo3-bot	95,649
+150	28bot	95,405
+151	AlleborgoBot	94,853
+152	Robbot	94,602
+153	EarwigBot	93,591
+154	HostBot	93,034
+155	Rei-bot	92,903
+156	Hazard-Bot	90,649
+157	DFBot	89,742
+158	RM bot	89,148
+159	RobotG	86,515
+160	Wikinews Importer Bot	84,468
+161	The wubbot	82,402
+162	BotMultichillT	81,908
+163	MiszaBot	81,480
+164	CactusBot	80,500
+165	DSisyphBot	78,521
+166	AvocatoBot	78,339
+167	ArticlesForCreationBot	76,807
+168	BrownBot	76,066
+169	GimmeBot	75,784
+170	CanisRufus	73,746
+171	Mr.Z-bot	72,555
+172	RibotBOT	70,044
+173	Redirect fixer	69,018
+174	MadmanBot	68,242
+175	STBot	67,360
+176	Ptbotgourou	66,988
+177	PhotoCatBot	65,801
+178	Theo's Little Bot	65,063
+179	DYKHousekeepingBot	64,648
+180	ArticleAlertbot	64,236
+181	Amalthea (bot)	62,928
+182	MastiBot	62,751
+183	Erwin85Bot	62,731
+184	SQLBot	61,171
+185	RMCD bot	60,967
+186	Werdnabot	60,702
+187	Thehelpfulbot	58,932
+188	Ralbot	57,708
+189	SoxBot V	57,416
+190	Amirobot	56,602
+191	DragonBot	56,554
+192	STTWbot	56,458
+193	MelonBot	56,411
+194	CommonsNotificationBot	56,159
+195	FoxBot	56,039
+196	BAGBot	56,039
+197	Sambot	55,853
+198	ClueBot II	55,498
+199	Idioma-bot	55,433
+200	TuHan-Bot	55,347
+201	MalafayaBot	55,269
+202	MediaWiki message delivery	55,104
+203	Staeckerbot	54,978
+204	HRoestBot	54,699
+205	KamikazeBot	54,314
+206	JackieBot	54,184
+207	SuggestBot	54,003
+208	Maelgwnbot	52,548
+209	VoxelBot	52,137
+210	Uncle G's major work 'bot	51,901
+211	Shadowbot3	51,520
+212	Drinibot	51,324
+213	PotatoBot	51,239
+214	Rezabot	50,538
+215	MarshBot	50,214
+216	BogBot	50,193
+217	Cyberbot II	49,133
+218	DefaultsortBot	48,995
+219	SharedIPArchiveBot	46,643
+220	Tangobot	46,250
+221	PixelBot	46,145
+222	Thadius856AWB	45,945
+223	TPBot	45,714
+224	DyceBot	45,650
+225	WatchlistBot	45,422
+226	Gdrbot	45,158
+227	SDPatrolBot	44,900
+228	DOI bot	44,709
+229	ArmbrustBot	44,634
+230	SashatoBot	44,607
+231	TobeBot	44,321
+232	AntiSpamBot	44,141
+233	SassoBot	43,922
+234	JYBot	43,486
+235	Rubinbot	43,365
+236	People-photo-bot	42,500
+237	LivingBot	42,411
+238	SilvonenBot	42,172
+239	MenasimBot	41,886
+240	Sandbot	41,821
+241	Muro Bot	41,441
+242	DinoBot2	41,362
+243	AP.BOT	41,147
+244	BotanyBot	41,140
+245	Sethbot	41,094
+246	Jogersbot	40,997
+247	Obersachsebot	40,828
+248	Petan-Bot	40,696
+249	BernsteinBot	39,615
+250	SteveBot	39,303
+251	ChzzBot IV	39,224
+252	WinBot	39,167
+253	STBotD	39,144
+254	ContinuityBot	38,824
+255	HBC AIV helperbot2	38,338
+256	Eskimbot	37,916
+257	Ohms Law Bot	37,898
+258	Δbot	37,802
+259	D'ohBot	37,798
+260	DHN-bot	37,354
+261	J Milburn Bot	36,626
+262	Ripchip Bot	35,574
+263	FeedBot	35,419
+264	PipepBot	35,378
+265	KingpinBot	35,132
+266	AdminStatsBot	34,984
+267	Scepbot	34,828
+268	OgreBot	34,275
+269	BOTarate	33,597
+270	One bot	33,099
+271	Guanabot	32,021
+272	CapitalBot	31,821
+273	KevinBot	31,446
+274	SPCUClerkbot	30,768
+275	MifterBot I	30,542
+276	HBC NameWatcherBot	30,439
+277	CSDWarnBot	30,410
+278	AMbot	30,053
+279	SoxBot III	29,833
+280	VoABot	29,709
+281	Curpsbot-unicodify	29,655
+282	JeffGBot	29,639
+283	TjBot	29,127
+284	Commander Keane bot	28,754
+285	TaBOT-zerem	28,640
+286	HBC AIV helperbot	27,859
+287	MerlIwBot	27,490
+288	Android Mouse Bot 2	27,380
+289	LyricsBot	27,368
+290	Mjbmrbot	27,073
+291	Whobot	26,806
+292	PbBot	26,750
+293	Gnome (Bot)	26,658
+294	BoxCrawler	26,608
+295	KarlsenBot	26,553
+296	JBradley Bot	26,430
+297	COBot	26,326
+298	Lowercase sigmabot	26,312
+299	Chartbot	26,135
+300	Broadbot	26,088
+301	Phe-bot	25,877
+302	A4bot	25,865
+303	Comics-awb	25,748
+304	DYKadminBot	25,702
+305	JoeBot	25,683
+306	Dinamik-bot	25,659
+307	.anacondabot	25,534
+308	JhsBot	25,248
+309	DASHBotAV	24,938
+310	Snowbot	24,737
+311	ChzzBot II	24,427
+312	RonaldBot	24,323
+313	AfDBot	24,257
+314	RBot	23,992
+315	MPUploadBot	23,543
+316	^demonBot2	23,458
+317	John Bot	23,415
+318	AWeenieBot	22,717
+319	HBC AIV helperbot4	22,501
+320	Pegasusbot	22,499
+321	Synthebot	22,263
+322	OverlordQBot	22,185
+323	AndersBot	21,983
+324	WikiStatsBOT	21,681
+325	Rick Bot	21,661
+326	BOT-Superzerocool	21,402
+327	Vagobot	21,399
+328	CarsracBot	21,349
+329	Tawkerbot4	21,149
+330	MessedRobot	20,920
+331	SpBot	20,713
+332	EmxBot	20,479
+333	AlnoktaBOT	19,917
+334	WelcomerBot	19,789
+335	Filedelinkerbot	19,747
+336	Legobot II	19,501
+337	BenzolBot	19,420
+338	SoxBot II	19,239
+339	BorgardeBot	19,099
+340	SoxBot IV	19,086
+341	Vina-iwbot	19,059
+342	Seedbot	18,964
+343	RoboMaxCyberSem	18,904
+344	Zwobot	18,852
+345	JaGaBot	18,801
+346	Lowercase sigmabot II	18,792
+347	Arbitrarily0Bot	18,588
+348	Rschen7754bot	18,571
+349	Grafikbot	18,549
+350	Taxobot 1	18,394
+351	Bibcode Bot	18,309
+352	VWBot	18,072
+353	MerlLinkBot	17,967
+354	SQLBot-Hello	17,883
+355	CobraBot	17,825
+356	Locobot	17,725
+357	LordAnubisBOT	17,720
+358	MBisanzBot	17,711
+359	MenoBot	17,450
+360	Kyle the bot	17,245
+361	LostBot	17,136
+362	PeerReviewBot	17,018
+363	EdoBot	16,918
+364	SelketBot	16,870
+365	Bot1058	16,783
+366	Justincheng12345-bot	16,735
+367	UnCatBot	16,725
+368	Sagabot	16,603
+369	MifterBot	16,469
+370	XLerateBot	16,419
+371	XyBot	16,275
+372	Roboto de Ajvol	16,250
+373	Alph Bot	16,181
+374	NW557Bot	16,135
+375	NjardarBot	16,091
+376	Giggabot	15,945
+377	RobotE	15,723
+378	KnightRider	15,538
+379	DorganBot	15,527
+380	KocjoBot	15,464
+381	WPArkansas Bot	15,268
+382	GrinBot	15,203
+383	Fluxbot	14,906
+384	MondalorBot	14,786
+385	CounterVandalismBot	14,742
+386	Citation bot 2	14,513
+387	MauritsBot	14,490
+388	WeggeBot	14,370
+389	FlBot	14,324
+390	Jumbuck	14,218
+391	NetBot	14,155
+392	Zorglbot	13,933
+393	MSBOT	13,809
+394	KevinalewisBot	13,601
+395	Lucasbfrbot	13,400
+396	RebelRobot	13,364
+397	Taxobot 7	13,117
+398	JdforresterBot	13,077
+399	RaptureBot	13,074
+400	DixonDBot	13,020
+401	Chem-awb	12,956
+402	ZhBot	12,919
+403	CitationCleanerBot	12,883
+404	Tsca.bot	12,824
+405	Anybot	12,812
+406	NationalRegisterBot	12,770
+407	Bot0612	12,750
+408	Almabot	12,592
+409	Tom's Tagging Bot	12,564
+410	LinkFA-Bot	12,478
+411	ArkyBot	12,325
+412	TechBot	12,222
+413	AccReqBot	12,203
+414	Mairibot	12,178
+415	CopyToWiktionaryBot	12,043
+416	BotKung	11,969
+417	RoryBot	11,939
+418	SD5bot	11,897
+419	Bota47	11,897
+420	HiW-Bot	11,796
+421	MoohanBOT	11,687
+422	CocuBot	11,636
+423	Ligulembot	11,449
+424	HersfoldArbClerkBot	11,426
+425	Acebot	11,380
+426	RockfangBot	11,130
+427	Gerakibot	11,089
+428	Chlewbot	11,087
+429	AkhtaBot	10,976
+430	Crypticbot	10,967
+431	SteenthIWbot	10,638
+432	Luasóg bot	10,630
+433	Jitse's bot	10,573
+434	SamatBot	10,493
+435	Kasirbot	10,480
+436	MenoBot II	10,443
+437	MessageDeliveryBot	10,284
+438	Syrcatbot	10,115
+439	RileyBot	10,054
+440	HerculeBot	9,995
+441	Cerabot	9,951
+442	CrimsonBot	9,941
+443	HBC AIV helperbot11	9,852
+444	YpnBot	9,805
+445	StigBot	9,793
+446	KslotteBot	9,759
+447	Mentibot	9,642
+448	John Bot III	9,588
+449	DarafshBot	9,514
+450	Anchor Link Bot	9,446
+451	BHGbot	9,304
+452	McM.bot	9,247
+453	ReferenceBot	8,999
+454	StatisticianBot	8,974
+455	Chris G Bot	8,968
+456	Louperibot	8,903
+457	El bot de la dieta	8,891
+458	HtonlBot	8,869
+459	JCbot	8,820
+460	Peelbot	8,810
+461	VVVBot	8,665
+462	Pageview bot	8,659
+463	WebCiteBOT	8,639
+464	Wherebot	8,585
+465	GargoyleBot	8,480
+466	IluvatarBot	8,471
+467	BrokenAnchorBot	8,349
+468	HotArticlesBot	8,276
+469	KittyBot	8,201
+470	ENewsBot	8,161
+471	EarwigBot I	8,124
+472	VixDaemonBot	8,090
+473	Pokbot	8,088
+474	FlagBot	8,062
+475	SpellingBot	7,955
+476	PDFbot	7,943
+477	LatitudeBot	7,911
+478	Aksibot	7,808
+479	Estirabot	7,801
+480	Maksim-bot	7,747
+481	Nallimbot	7,620
+482	Image-req-proj-bot	7,605
+483	AFD Bot	7,549
+484	GurchBot	7,421
+485	ImageBacklogBot	7,297
+486	ClueBot VI	7,185
+487	Uncle G's 'bot	7,072
+488	PNG crusade bot	7,042
+489	TPO-bot	7,022
+490	DomBot	6,861
+491	Ebrambot	6,852
+492	Margosbot	6,843
+493	StatusBot	6,841
+494	Jotterbot	6,715
+495	AlanBOT	6,712
+496	AnkitAWB	6,706
+497	EarwigBot III	6,614
+498	EBot IV	6,582
+499	RscprinterBot	6,558
+500	DeadBot	6,516
+501	Purbo T	6,489
+502	SeveroBot	6,395
+503	Le Pied-bot	6,363
+504	NedBot	6,336
+505	BodhisattvaBot	6,242
+506	CountryBot	6,217
+507	FileBot	6,137
+508	AfDStatBot	6,069
+509	MTSbot	5,937
+510	ChenzwBot	5,869
+511	EssjayBot	5,742
+512	BenoniBot	5,717
+513	SEWilcoBot	5,680
+514	VedeBOT	5,663
+515	YonaBot	5,580
+516	MMABot	5,532
+517	Martin's bot	5,485
+518	WikiDreamer Bot	5,464
+519	NTBot	5,404
+520	Movses-bot	5,359
+521	HasharBot	5,288
+522	LawBot	5,266
+523	Kakashi Bot	5,248
+524	UcuchaBot	5,220
+525	Milk's Favorite Bot	5,168
+526	BotPuppet	5,110
+527	Lt-wiki-bot	5,065
+528	WolterBot	5,029
+529	Android Mouse Bot 3	5,022
+530	EBot II	4,957
+531	XZeroBot	4,901
+532	RefDeskBot	4,897
+533	CohesionBot	4,843
+534	PlangeBot	4,793
+535	TuvicBot	4,784
+536	Merge bot	4,741
+537	Andrea105Bot	4,702
+538	TinucherianBot II	4,683
+539	Hxhbot	4,602
+540	Skumarlabot	4,583
+541	AmphBot	4,582
+542	Beastie Bot	4,574
+543	ClickBot	4,448
+544	GeorgeMoneyBot-status	4,426
+545	ZsinjBot	4,372
+546	JVbot	4,368
+547	NukeBot	4,368
+548	GhalyBot	4,332
+549	KaiserbBot	4,276
+550	PlankBot	4,267
+551	Nobot	4,252
+552	HBC AIV helperbot 8	4,228
+553	NolBot	4,218
+554	WuBot	4,125
+555	Ugur Basak Bot	4,096
+556	Pathosbot	4,064
+557	Mgmbot	4,045
+558	FANSTARbot	4,041
+559	Sahimrobot	4,038
+560	MuZebot	4,002
+561	SelectionBot	3,988
+562	ARSBot	3,960
+563	JamietwBot	3,895
+564	EleferenBot	3,882
+565	Adlerbot	3,842
+566	SundarBot	3,773
+567	Android Mouse Bot	3,650
+568	SoxBot VI	3,640
+569	AdambroBot	3,624
+570	ClueBot Commons	3,608
+571	People-n-photo-bot	3,607
+572	OldMedcabBot	3,588
+573	Image Screening Bot	3,583
+574	WolfBot	3,497
+575	WarddrBOT	3,438
+576	ToePeu.bot	3,434
+577	PolarBot	3,417
+578	SoxBot VIII	3,394
+579	Minsbot	3,381
+580	AstaBOTh15	3,367
+581	MonoBot	3,179
+582	DYKBot	3,174
+583	ChandlerMapBot	3,170
+584	R Delivery Bot	3,162
+585	Yonidebot	3,147
+586	AvicBot2	3,128
+587	DcoetzeeBot	3,108
+588	Albambot	2,977
+589	Swimmingbot-awb	2,920
+590	DirlBot	2,806
+591	Elissonbot	2,801
+592	FiriBot	2,785
+593	Josvebot	2,757
+594	BepBot	2,752
+595	Citation bot 3	2,728
+596	MartinBotIV	2,696
+597	Vini 17bot5	2,690
+598	ClueBot IV	2,665
+599	Taxobot 2	2,663
+600	PDBbot	2,565
+601	Amolbot	2,561
+602	MediationBot	2,527
+603	ImageTagBot	2,513
+604	Ryan Vesey Bot	2,465
+605	H92Bot	2,439
+606	Tanhabot	2,414
+607	Diego Grez Bot	2,406
+608	Lucia Bot	2,372
+609	Signpost Book Bot	2,354
+610	Byrialbot	2,339
+611	NodBot	2,334
+612	Bot-Schafter	2,332
+613	Bot523	2,310
+614	Philosopher-Bot	2,237
+615	AnomieBOT II	2,229
+616	DustyBot	2,225
+617	Chrisbot	2,218
+618	BetBot	2,205
+619	MahdiBot	2,183
+620	Commons fair use upload bot	2,131
+621	Blood Oath Bot	2,122
+622	TottyBot	2,110
+623	Kl4m-AWB	2,072
+624	RFRBot	2,054
+625	AstRoBot	2,043
+626	AmeliorationBot	2,006
+627	CeraBot	1,977
+628	Bikabot	1,967
+629	LDBot	1,950
+630	NrhpBot	1,922
+631	Bocianski.bot	1,889
+632	FaleBot	1,872
+633	Zxabot	1,835
+634	CrazynasBot	1,808
+635	IPTaggerBot	1,808
+636	HarrivBOT	1,777
+637	Ver-bot	1,777
+638	Rfambot	1,774
+639	SvickBOT	1,738
+640	Kwjbot	1,738
+641	Ocobot	1,730
+642	KolBot	1,728
+643	PascalBot	1,710
+644	SpillingBot	1,690
+645	CricketBot	1,676
+646	SoxBot X	1,675
+647	RobotJcb	1,631
+648	EnzaiBot	1,595
+649	ListGenBot	1,575
+650	WikiBotas	1,556
+651	Wybot	1,541
+652	Peti610botH	1,526
+653	Plasticbot	1,522
+654	FPBot	1,486
+655	Robert SkyBot	1,483
+656	Italic title bot	1,483
+657	Android Mouse Bot 4	1,448
+658	GrooveBot	1,410
+659	NekoBot	1,379
+660	RoboServien	1,349
+661	SMS Bot	1,344
+662	SoxBot VII	1,340
+663	AzaBot	1,321
+664	BotdeSki	1,312
+665	Slobot	1,297
+666	Eivindbot	1,279
+667	Snaevar-bot	1,277
+668	AilurophobiaBot	1,269
+669	DeadLinkBOT	1,256
+670	BendelacBOT	1,244
+671	Kisbesbot	1,221
+672	Citation bot 4	1,200
+673	O bot	1,198
+674	Manishbot	1,172
+675	AudeBot	1,143
+676	SheepBot	1,126
+677	Nixbot	1,102
+678	WoodwardBot	1,092
+679	MastersBot	1,081
+680	GracenotesBot	1,080
+681	AntiAbuseBot	1,075
+682	WxBot	1,062
+683	Janna Isabot	1,045
+684	Analphabot	1,028
+685	SantoshBot	1,020
+686	7SeriesBOT	1,019
+687	Legobot III	966
+688	DinoBot	952
+689	Botpankonin	950
+690	Ficbot	950
+691	SwiftBot	934
+692	Rameshngbot	926
+693	AndreasJSbot	908
+694	SDPatrolBot II	900
+695	EBot	896
+696	Alirezabot	885
+697	Razibot	881
+698	Anibot	880
+699	NobelBot	878
+700	Nono le petit robot	867
+701	Mulder416sBot	867
+702	TARBOT	855
+703	MCBot	849
+704	TTObot	840
+705	WODUPbot	840
+706	NeuRobot	838
+707	WaldirBot	836
+708	Antischmitzbot	834
+709	Taxobot	828
+710	VP-bot	820
+711	MedcabBot	813
+712	ChzzBot	804
+713	Joe's Olympic Bot	797
+714	Fajrbot	795
+715	ElMeBot	785
+716	Stwalkerbot	783
+717	SprinterBot	780
+718	AutocracyBot	759
+719	MartinBotII	758
+720	Stefan2bot	739
+721	GnawnBot	724
+722	DpmukBOT	723
+723	AnomieBOT III	719
+724	MandelBot	711
+725	Caypartisbot	680
+726	ChessBOT	674
+727	GZ-Bot	655
+728	PsychAWB	653
+729	TypoBot	646
+730	Newsletterbot	639
+731	Danumber1bot	637
+732	Robotic Garden	618
+733	Dark Shikari Bot	615
+734	BotCompuGeek	586
+735	DEagleBot	579
+736	NeraBot	552
+737	AlptaBot	546
+738	Halibott	543
+739	SpaceFactsBot	541
+740	VsBot	536
+741	Diligent Terrier Bot	527
+742	Riccardobot	521
+743	Kal-El-Bot	515
+744	Luuvabot	508
+745	UncatTemplateBot	505
+746	Botx	496
+747	Naudefjbot	474
+748	DrTrigonBot	471
+749	DrFO.Tn.Bot	441
+750	Selmobot	437
+751	DavidWSBot	435
+752	HujiBot	433
+753	BenjBot	432
+754	BoricuaBot	430
+755	DefconBot	429
+756	ListManBot	427
+757	AHbot	425
+758	AsgardBot	425
+759	Manubot	417
+760	Sumibot	413
+761	Madhubot	391
+762	JJBot	389
+763	RSElectionBot	387
+764	FritzpollBot	380
+765	KaldariBot	378
+766	NilfaBot	370
+767	MalarzBOT	367
+768	Simplebot	362
+769	AloysiusLiliusBot	358
+770	EddieBot	355
+771	PALZ9000	340
+772	OrophinBot	338
+773	AZatBot	330
+774	Denbot	329
+775	Milk's Favorite Bot II	329
+776	Pfft Bot	325
+777	SVGBot	320
+778	VeinorBot	320
+779	AswnBot	314
+780	Rtz-bot	309
+781	QOTDBot	307
+782	MrVanBot	306
+783	PaievBot	303
+784	IcalaniseBot	282
+785	QualiaBot	280
+786	KuduBot	259
+787	DeliveryBot	258
+788	LSG1-Bot	253
+789	Egmontbot	249
+790	PCbot	247
+791	APersonBot	242
+792	XeBot	237
+793	JMuniBot	232
+794	BücherBot	226
+795	SusBot	224
+796	Botryoidal	223
+797	MichaelBillingtonBot	211
+798	The Anonybot	209
+799	ReigneBOT	201
+800	ChzzBot III	193
+801	HMBot	192
+802	Kgsbot	189
+803	DottyQuoteBot	178
+804	OpenlibraryBot	173
+805	SandgemBot	158
+806	Kaspobot	157
+807	Kumar Appaiah Bot	148
+808	MauchoBot	142
+809	WMUKBot	140
+810	SharafBot	137
+811	Rabbot	137
+812	Pattonbot	130
+813	The Auto-categorizing Robot	125
+814	SamuraiBot	125
+815	StormBot	125
+816	DusterBot	116
+817	H2Bot	113
+818	EagleAstroidBot	109
+819	Rob110178bot	109
+820	SpeedyBot	106
+821	Homobot	101
+822	SVnaGBot1	97
+823	Lockalbot	96
+824	GeorgeMoneyBot	95
+825	StatsBot	93
+826	Fettgesicht	90
+827	CSBot	89
+828	EBot III	87
+829	Cherybot	86
+830	TaeBot	83
+831	RFC posting script	83
+832	Project Messenger Bot	78
+833	MotinBot	78
+834	WilhelmBot	78
+835	DinoSizedBot	75
+836	DanielBot	72
+837	DarioBot	70
+838	Bersibot	68
+839	Sgeo-BOT	65
+840	ViskonBot	65
+841	DvyBot	62
+842	ArbComBot	61
+843	JerryBot	59
+844	UltraBot	56
+845	Z-BOT	55
+846	YekratsBot	53
+847	EberBot	51
+848	R. Hillgentleman	48
+849	OrBot	47
+850	CataBotTsirel	38
+851	Smallbot	34
+852	Mihas-bot	31
+853	Orphaned image deletion bot	31
+854	SPPatrolBot	29
+855	Danielfolsom2.bot	29
+856	TAP Bot	26
+857	TFA Protector Bot	22
+858	DRN clerk bot	22
+859	Dpkbot	21
+860	M-Bot	21
+861	CleanupListingBot	20
+862	IPLRecordsUpdateBot	19
+863	SpebiBot	18
+864	AwOcBot	17
+865	Town-bot	17
+866	TorNodeBot	14
+867	CloudNineBot	12
+868	SebrevBOT	12
+869	SpellCheckerBot	11
+870	Wikipedia Signpost	11
+871	AEBot	10
+872	Heikobot	5
+873	MessengerBot	4
+874	WASDbot	4
+875	NVS(bot)	4
+876	Wpp research bot	3
+877	GrashoofdBot	2
+878	WalkingSoulBot	1
+879	CommonsNotification	1
+880	CwraschkeDataBot	1
+881	Nomenclaturebrowser	1
+882	PC78-bot	1
+883	SunCreatorBot	1
+884	WillieBot	0
+885	KyluBot	0
+886	ChrisSalij Bot	0
+887	Taxobot 6	0
+888	Taxobot 3	0
+889	Geimas5Bot	0
+890	BsherrAWBBOT	0
+891	MetaplasticityBot	0
+892	AlekseyBot	0
+893	TowBot	0
+894	Taxobot (usurped)	0
+895	SlakrBot	0
+896	ZscoutBot	0
+897	JatBot	0
+898	Non-Free Content Compliance Bot	0
+899	Joe's Null Bot	0
+900	Collabsearch	0
+901	ProcseeBot	0
+902	AttributionBot	0
